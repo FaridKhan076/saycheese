@@ -1,3 +1,5 @@
+Farid Khan
+
 #!/bin/bash
 # SayCheese v1.0
 # coded by: github.com/thelinuxchoice/saycheese
